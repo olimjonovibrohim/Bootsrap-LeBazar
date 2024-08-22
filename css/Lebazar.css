@@ -1,0 +1,110 @@
+.ml-p{
+    position: absolute;
+    margin-left: 25px;
+    margin-top: -21px;
+}
+.l-eft{
+    margin-top: 5px;
+}
+.ml-p1{
+    position: absolute;
+    margin-left: 25px;
+    margin-top: -25px;
+}
+.ml-p2{
+    position: absolute;
+    margin-left: 205px;
+    margin-top: -25px;
+}
+.l-eft1{
+    margin-top: 5px;
+    margin-left: 155px;
+}
+.ml-p3{
+    position: absolute;
+    margin-left: 305px;
+    margin-top: -25px;
+}
+.hjk{
+    margin-left: 100px;
+}
+.fgt{
+    position: absolute;
+    margin-left: 502px;
+    margin-top: -32px;
+}
+.ong1{
+    float: left;
+}
+.ong{
+    float: left;
+}
+.tor{
+    margin-top: 10px;
+    margin-left: -25px;
+}
+.huk{
+    margin-left: -26px;
+    width: 180px;
+}
+h6{
+    color: green;
+    margin-left: -25px;
+}
+.fol{
+    margin-left: -50px;
+}
+.kop{
+    margin-left: -10px;
+}
+.ft{
+    font-size: 13px;
+}
+.bik{
+    margin-top: -20px;
+}
+.buyi{
+    width: 560px;
+    height: 390px;
+}
+.small{
+    width: 85px;
+    height: 30px;
+}
+.tol{
+    margin-top: -5px;
+    margin-left: -3px;
+}
+.ghj{
+    height: 36px;
+}
+.kim{
+    margin-top: -355px;
+}
+.chap{
+    margin-left: -15px;
+}
+.crd .hvrbtn{
+    background-color: transparent;
+    border-color: transparent;
+    color: transparent;
+}
+.crd:hover .hvrbtn{
+    width: 127%;
+    height: 50px;
+    border: 1px solid #28a745;
+    color: #28a745;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: -16px;
+    margin-top: -5px;
+}
+.hvrbtn{
+    width: 127%;
+    background-color: transparent;  
+}
+.hvrbtn:hover{
+    width: 127%;
+    color: white;
+    background-color: #28a745;
+}
